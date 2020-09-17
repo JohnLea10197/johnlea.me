@@ -27,13 +27,8 @@
   padding-bottom: 0.25rem;
 }
 
-
 body {
   background-color: #3c3836;
-}
-
-.spacer {
-  padding-top: 0.25rem;
 }
 
 p {
@@ -76,4 +71,3 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-
